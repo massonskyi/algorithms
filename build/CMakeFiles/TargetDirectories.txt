@@ -1,0 +1,3 @@
+/home/massonskyi/algorithms/build/CMakeFiles/Algorithms.dir
+/home/massonskyi/algorithms/build/CMakeFiles/edit_cache.dir
+/home/massonskyi/algorithms/build/CMakeFiles/rebuild_cache.dir

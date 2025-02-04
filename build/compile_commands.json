@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/massonskyi/algorithms/build",
+  "command": "/usr/bin/g++-13   -g -std=gnu++23 -o CMakeFiles/Algorithms.dir/main.cxx.o -c /home/massonskyi/algorithms/cpp/main.cxx",
+  "file": "/home/massonskyi/algorithms/cpp/main.cxx",
+  "output": "CMakeFiles/Algorithms.dir/main.cxx.o"
+}
+]
